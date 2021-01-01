@@ -1,3 +1,4 @@
+@NB
 Feature:  As a User , I want to find a yellow boys shoes which brand NewBalance and buy it
 
   @buy
